@@ -1,0 +1,225 @@
+@charset "utf-8";
+@import url("../webfonts/Milston/stylesheet.css");
+@import url("../webfonts/Nexa_Regular/stylesheet.css");
+@import url("../webfonts/Nexa_Black/stylesheet.css");
+@import url("../webfonts/Nexa_Bold/stylesheet.css");
+@import url("../webfonts/Nexa_LightItalic/stylesheet.css");
+@import url("../webfonts/Nexa_Light/stylesheet.css");
+
+
+
+
+
+
+.container-fluid .container-fluid .navbar.navbar-expand-lg.navbar-light.bg-light {
+}
+.nav-style {
+    background-color: #A90002;
+    position: static;
+    text-align: center;
+    font-family: Milston;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 33px;
+    color: #FFFFFF;
+    border-style: solid;
+    border-width: 0px;
+
+}
+.content-style {
+    text-shadow: 0px 0px;
+    border: thick solid #A90002;
+
+}
+.datos-relleno {
+    color: #BD2B2C;
+    font-family: "Nexa Bold";
+}
+.datos-relleno1 {
+    color: #BD2B2C;
+    padding: 10px;
+    font-family: "Nexa Bold";
+}
+
+.datos-sinrelleno {
+}
+
+.títulos-relleno {
+    color: #BCC3C4;
+    background-color: #3A3936;
+    border-left: 20px solid #3A3936;
+    border-right: 5px solid #3A3936;
+    border-bottom: 5px solid #3A3936;
+    border-top: 5px solid #3A3936;
+    font-family: "Nexa Black";
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-left: 0px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.titulo-sinrelleno {
+    color: #BCC3C4;
+    font-family: "Nexa Black";
+    text-align: right;
+    background-color: #BD2B2C;
+    border-left: 5px solid #BD2B2C;
+    border-right: 20px solid #BD2B2C;
+    border-bottom: 5px solid #BD2B2C;
+    border-top: 5px solid #BD2B2C;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.textos-relleno {
+    color: #3A3936;
+    font-family: "Nexa Regular";
+    margin-left: 20px;
+}
+.texto-sinrelleno {
+    color: #3A3936;
+    text-align: right;
+    font-family: "Nexa Regular";
+}
+
+.div-relleno {
+    background-color: #BCC3C4;
+}
+
+
+
+
+.dropdown-style {
+    background-color: #FFFFFF;
+    font-family: "Nexa Regular";
+}
+.text-nav {
+    font-family: "Nexa Regular";
+
+
+
+}
+.container-relleno {
+    background-color: #BCC3C4;
+}
+.img-centrado {
+    text-align: center;
+
+
+}
+.separación {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.pieimg {
+    font-family: "Nexa LightItalic";
+    color: #BD2B2C;
+    text-align: center;
+}
+.img-logro {
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.contacto {
+    color: #A90002;
+    font-family: Milston;
+}
+.footer {
+    background-color: #A90002;
+    font-family: "Nexa Regular";
+    color: #BCC3C4;
+    text-align: center;
+    padding-top: 10px;
+    font-size: medium;
+}
+.footer1 {
+    background-color: #A90002;
+    margin-bottom: px;
+    padding-bottom: 0px;
+    border-style: solid;
+    border-top-width: 10px;
+    border-color: #A90002;
+    border-bottom-width: 10px;
+    text-align: center;
+}
+.img-footer {
+    margin-left: 20px;
+}
+.form-relleno {
+    background-color: #3A3936;
+    border: 20px solid #3A3936;
+    text-align: center;
+}
+.input-style {
+    font-family: "Nexa Regular";
+    color: #A90002;
+    text-align: left;
+    margin-top: 10px;
+    /* [disabled]margin-right: 10px; */
+    /* [disabled]margin-bottom: 20px; */
+    width: 49%;
+    margin-left: 0px;
+}
+.input-style1 {
+    color: #A90002;
+    font-family: "Nexa Regular";
+    width: 98.5%;
+    display: inline-block;
+    margin-left: 5px;
+    margin-bottom: 0px;
+    margin-top: 20px;
+    height: 2.5cm;
+}
+.input-style2 {
+    width: 98.5%;
+    margin-top: 20px;
+    color: #A90002;
+    font-family: "Nexa Regular";
+}
+.input-style3 {
+    color: #A90002;
+    font-family: "Nexa Regular";
+    text-align: left;
+    margin-top: 20px;
+    width: 49%;
+    margin-left: 0px;
+}
+
+
+.submit {
+    background-color: #A90002;
+    border: 5px solid #A90002;
+    color: #FFFFFF;
+    font-family: "Nexa Bold";
+    width: 100%;
+}
+.nav-toggler {
+    background-color: #A90002;
+}
+.horario {
+    color: #3A3936;
+    font-family: "Nexa Light";
+    text-align: left;
+}
+.colaboradores {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    text-align: center;
+}
+.video {
+    padding-top: 20px;
+
+}
+.img-cupula {
+    margin-top: 30px;
+    margin-right: 10px;
+    margin-bottom: 30px;
+}
+.img-autos {
+    width: 70%;
+    margin-bottom: 30px;
+}
+.img-turibuz {
+
+}
